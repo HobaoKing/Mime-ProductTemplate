@@ -1,1 +1,1 @@
-# Mime-ProductTemplate
+# Mine-ProductTemplate
