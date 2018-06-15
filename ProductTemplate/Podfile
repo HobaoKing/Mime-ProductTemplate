@@ -1,0 +1,21 @@
+
+platform :ios, ‘8.0’
+use_frameworks!
+
+target 'ProductTemplate' do
+pod 'YTKNetwork'
+pod 'CYLTabBarController'
+pod 'YYWebImage'
+pod 'SDCycleScrollView'
+pod 'YYImage'
+pod 'LCActionSheet'
+pod 'IQKeyboardManager'
+pod 'MJExtension' 
+pod 'RTRootNavigationController'
+pod 'Masonry'
+pod 'ReactiveObjC', '~> 2.1.0'
+pod 'SGPagingView', '~> 1.3.6'
+pod 'XHLaunchAd'
+pod 'JKCategories'
+pod 'SDAutoLayout', '~> 2.1.3'
+end
